@@ -6,7 +6,7 @@ In this project, we implement a new algorithm to generate all solutions to the N
 REQUIREMENTS
 ------------
 
-This module requires the following modules:
+This notebook requires the following modules:
 
  * [Qiskit]
  * [TKinter]
